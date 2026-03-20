@@ -1,4 +1,4 @@
-# Hi, I'm Fran. 👋
+# Hi, I'm Fran 👋
 
 
 ## About Me
