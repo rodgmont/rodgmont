@@ -3,24 +3,11 @@
 
 ## About Me
 
-I didn't grow up surrounded by tech campuses or venture capital.
-I grew up in **El Salvador** — and that changed everything about
-the way I think.
-
-When the world isn't handing you resources,
-you stop waiting for permission and start building from scratch.
-That's not a philosophy I adopted.
-It's one I lived into.
-
-Today I'm a **founder, a systems thinker, and an obsessive**
+I'm a **founder, a systems thinker, and an obsessive**
 at the intersection of artificial intelligence and deep structural change.
 Not the kind that ships a product and calls it disruption —
 the kind that takes years, demands precision,
 and quietly rewires how industries work.
-
-I believe the next great wave of AI won't come from
-the same three zip codes it always has.
-I'm here to prove it.
 
 
 ## What I'm Building
