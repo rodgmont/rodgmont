@@ -56,10 +56,10 @@ or just someone who thinks in decades —
 
 **let's talk.**
 
-[![Find Me](https://img.shields.io/badge/rodgmont.com-000000?style=flat&logo=google-chrome&logoColor=white)](https://franrodgmont.com)
+[![Website](https://img.shields.io/badge/rodgmont.com-000000?style=flat&logo=google-chrome&logoColor=white)](https://franrodgmont.com)
 [![Obelysk](https://img.shields.io/badge/obelysk.com-5C2D91?style=flat&logo=google-chrome&logoColor=white)](https://obelysk.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodgmont)
-[![Follow](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/rodgmont)
+[![Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/rodgmont)
 
 
 *El Salvador 🇸🇻 · Playing long-term games with long-term people.*
