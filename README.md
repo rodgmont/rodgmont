@@ -3,7 +3,7 @@
 
 ## About Me
 
-I'm a **founder** building in AI.
+I'm a **founder** building AI.
 
 Let's connect.
 
