@@ -3,36 +3,7 @@
 
 ## About Me
 
-I'm a **founder, a systems thinker, and an obsessive**
-at the intersection of artificial intelligence and deep structural change.
-Not the kind that ships a product and calls it disruption —
-the kind that takes years, demands precision,
-and quietly rewires how industries work.
-
-
-## What I'm Building
-
-**[Obelysk](https://obelysk.tech)** is the first DeepTech AI startup
-born in El Salvador.
-
-We build **Small Language Models** —
-adaptive, efficient, and designed for the real world.
-Not the world of unlimited compute and clean data.
-The world of constraints, context, and actual human complexity.
-
-The dominant narrative says AI belongs to the giants.
-We disagree.
-
-The future isn't one massive model that knows everything.
-It's thousands of precise, domain-specific models
-that *do* things — embedded in industries,
-running on the edge, serving people who've never been
-the target market for Silicon Valley.
-
-That's what we're building.
-Not a wrapper. Not a chatbot.
-A foundational system with a long-term thesis:
-**intelligent machines, built differently, for a world that's been ignored.**
+I'm a **founder**. I build AI stuff
 
 
 ## Find Me
