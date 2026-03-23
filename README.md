@@ -3,16 +3,9 @@
 
 ## About Me
 
-I'm a **founder**. I build AI stuff
+I'm a **founder** building in AI.
 
-
-## Find Me
-
-If something here stayed with you —
-if you're an investor, a researcher, a builder,
-or just someone who thinks in decades —
-
-**let's talk.**
+Let's connect.
 
 [![Website](https://img.shields.io/badge/rodgmont.com-000000?style=flat&logo=google-chrome&logoColor=white)](https://franrodgmont.com)
 [![Obelysk](https://img.shields.io/badge/obelysk.com-5C2D91?style=flat&logo=google-chrome&logoColor=white)](https://obelysk.tech)
